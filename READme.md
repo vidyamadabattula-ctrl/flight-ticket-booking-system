@@ -57,19 +57,36 @@ Arrays are used to store and manage multiple flights and booking records.
 5. Users can view or cancel their bookings through the menu.
 
 ## Project Structure
+
 Flight-Ticket-Booking-System/
 │
-├── flight.c
+├── FlightBookingSystem.c
 ├── README.md
-└── .gitignore
+├── .gitignore
+├── Ex1.png
+├── Ex2.png
+├── Ex3.png
+└── Ex4.png
+
+## Future Improvements
+Add seat selection
+Add ticket price calculation
+Support multiple passengers
+Add transaction history
+Store booking information using files or a database
+Add user login and authentication
+Develop a graphical user interface
+Add online payment integration
+
+## Author
+Vidya Madabattula
 
 ## Demo
-
-### Main Menu
+## Main Menu
 ![Flight Ticket Booking System - Main Menu,Search Flight](Ex1.png)
-### Flight Search
+## Flight Search
 ![Flight Search](Ex2.png)
-### Ticket Booking
+## Ticket Booking
 ![Ticket Booking](Ex3.png)
-### Exit
+## Exit
 ![Exit](Ex4.png)
