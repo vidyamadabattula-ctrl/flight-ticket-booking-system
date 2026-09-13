@@ -57,8 +57,6 @@ Arrays are used to store and manage multiple flights and booking records.
 5. Users can view or cancel their bookings through the menu.
 
 ## Project Structure
-
-```text
 Flight-Ticket-Booking-System/
 │
 ├── flight.c
