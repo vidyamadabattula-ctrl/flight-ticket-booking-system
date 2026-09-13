@@ -62,3 +62,14 @@ Flight-Ticket-Booking-System/
 ├── flight.c
 ├── README.md
 └── .gitignore
+
+## Demo
+
+### Main Menu
+![Flight Ticket Booking System - Main Menu,Search Flight](Ex1.png)
+### Flight Search
+![Flight Search](Ex2.png)
+### Ticket Booking
+![Ticket Booking](Ex3.png)
+### Exit
+![Exit](Ex4.png)
